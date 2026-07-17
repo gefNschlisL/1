@@ -37,7 +37,7 @@ git push -u origin main
 
 ## ⬇️ הורדת ריפו קיים מגיטהאב לתיקיה שתיווצר ותקושר אליו
 
-**1.** נכנסים ל https://github.com/gefNschlisL ואז ל **Repositories** ובוחרים בריפו שרוצים, או ישירות ל https://github.com/שם_המשתמש/שם_הריפו
+**1.** נכנסים ל https://github.com/gefNschlisL ואז ל **Repositories** ובוחרים בריפו שרוצים, או ישירות ל <span dir="ltr">https://github.com/שם_המשתמש/שם_הריפו</span>
 
 **2.** לוחצים על הכפתור הירוק **Code** ומעתיקים את הקישור
 
