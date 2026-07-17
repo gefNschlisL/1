@@ -10,7 +10,7 @@
 
 ## 🆕 יצירת ריפו חדש בגיטהאב וקישורו לתיקיה במחשב
 
-**1.** נכנסים ל־ [https://github.com/gefNschlisL](https://github.com/gefNschlisL) `[שם המשתמש בגיטהאב]` ואז ל־ **Repositories** ולוחצים על הכפתור הירוק **New**
+**1.** נכנסים ל־ `https://github.com/[שם המשתמש בגיטהאב]` (לדוגמה [https://github.com/gefNschlisL](https://github.com/gefNschlisL)) ואז ל־ **Repositories** ולוחצים על הכפתור הירוק **New**
 
 או פשוט: [https://github.com/new](https://github.com/new)
 
@@ -39,9 +39,9 @@ git push -u origin main
 
 ## ⬇️ הורדת ריפו קיים מגיטהאב לתיקיה שתיווצר ותקושר אליו
 
-**1.** נכנסים ל־ [https://github.com/gefNschlisL](https://github.com/gefNschlisL) ‏› **Repositories** ובוחרים בריפו שרוצים,
+**1.** נכנסים ל־ `https://github.com/[שם המשתמש בגיטהאב]` (לדוגמה [https://github.com/gefNschlisL](https://github.com/gefNschlisL)) ‏› **Repositories** ובוחרים בריפו שרוצים,
 
-או פשוט: `https://github.com/gefNschlisL/שם_הריפו`
+או פשוט: `https://github.com/[שם המשתמש בגיטהאב]/שם_הריפו`
 
 **2.** לוחצים על הכפתור הירוק **Code** ומעתיקים את הקישור
 
@@ -88,9 +88,9 @@ git pull origin main
 
 ## 🕹️ מעבר בין גרסאות שנמצאות בתיקיה של המחשב
 
-**1.** נכנסים ל־ [https://github.com/gefNschlisL](https://github.com/gefNschlisL) ‏› **Repositories** ובוחרים בריפו שרוצים,
+**1.** נכנסים ל־ `https://github.com/[שם המשתמש בגיטהאב]` (לדוגמה [https://github.com/gefNschlisL](https://github.com/gefNschlisL)) ‏› **Repositories** ובוחרים בריפו שרוצים,
 
-או פשוט: `https://github.com/gefNschlisL/שם_הריפו`
+או פשוט: `https://github.com/[שם המשתמש בגיטהאב]/שם_הריפו`
 
 **2.** לוחצים על **Commits** שמתחת לכפתור הירוק, ומעתיקים את ההאש (hash) של הקומיט שאליו רוצים לעבור
 
