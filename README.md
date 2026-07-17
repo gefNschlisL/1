@@ -32,8 +32,8 @@ git push -u origin main
 | פקודה | הסבר |
 |---|---|
 | `git add .` | הקובץ או הקבצים שרוצים להעלות. נקודה מעלה את כולם |
-| `git commit -m "first commit"` | ההערה של הקומיט |
-| `git remote add origin ...my_repo.git` | שם הריפו |
+| `git commit -m "ההערה של הקומיט"` | ההערה של הקומיט |
+| `git remote add origin ...שם_הריפו.git` | שם הריפו |
 
 ---
 
