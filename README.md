@@ -10,30 +10,27 @@
 
 ## 🆕 יצירת ריפו חדש בגיטהאב וקישורו לתיקיה במחשב
 
-**1.** נכנסים ל־ <code dir="ltr">https://github.com</code>, מתחברים לחשבון, נכנסים ל־ **Repositories** ולוחצים על הכפתור הירוק **New**
+**1.** נכנסים ל־ https://github.com או ל https://github.com/gefNschlisL ומתחברים לחשבון
 
-או פשוט: [https://github.com/new](https://github.com/new)
+**2.** נכנסים ל **Repositories** ולוחצים על הכפתור הירוק **New**, או נכנסים ישירות ל https://github.com/new
 
-**2.** כותבים את שם הריפו ב־ **Repository name**, גוללים לתחתית ולוחצים על הכפתור הירוק **Create repository**
+**3.** כותבים את שם הריפו בשדה **Repository name**, גוללים לתחתית ולוחצים על הכפתור הירוק **Create repository**
 
-**3.** נכנסים לתוך התיקיה במחשב שרוצים לקשר, כותבים למעלה `CMD` ולוחצים על **Enter**
+**4.** נכנסים לתוך התיקיה במחשב שרוצים לקשר, כותבים למעלה בשורת הכתובת `CMD` ולוחצים על **Enter**
 
-**4.** מריצים את הפקודות הבאות:
+**5.** מריצים את הפקודות הבאות:
 
 ```bash
 git init
 git add .
-git commit -m "first commit"
+git commit -m "הסבר שיצורף לקומיט"
 git branch -M main
-git remote add origin https://github.com/gefNschlisL/my_repo.git
+git remote add origin https://github.com/gefNschlisL/שם_הריפו.git
 git push -u origin main
 ```
 
 | פקודה | הסבר |
-|---|---|
 | `git add .` | הקובץ או הקבצים שרוצים להעלות. נקודה מעלה את כולם |
-| `first commit` | להחליף בהערה של הקומיט |
-| `my_repo` | להחליף בשם הריפו |
 
 ---
 
