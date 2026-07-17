@@ -10,7 +10,7 @@
 
 ## 🆕 יצירת ריפו חדש בגיטהאב וקישורו לתיקיה במחשב
 
-**1.** נכנסים ל־ <code dir="ltr">https://github.com/[שם המשתמש בגיטהאב]</code> (לדוגמה [https://github.com/gefNschlisL](https://github.com/gefNschlisL)) ואז ל־ **Repositories** ולוחצים על הכפתור הירוק **New**
+**1.** נכנסים ל־ <code dir="ltr">https://github.com</code>, מתחברים לחשבון, ואז ל־ **Repositories** ולוחצים על הכפתור הירוק **New**
 
 או פשוט: [https://github.com/new](https://github.com/new)
 
