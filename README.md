@@ -79,9 +79,7 @@ git pull origin main
 
 ## 🕹️ מעבר בין גרסאות שנמצאות בתיקיה של המחשב
 
-**1.** נכנסים ל־ <span dir="ltr">https://github.com/[שם המשתמש בגיטהאב]</span> (לדוגמה [https://github.com/gefNschlisL](https://github.com/gefNschlisL)) ‏› **Repositories** ובוחרים בריפו שרוצים,
-
-או פשוט: <span dir="ltr">https://github.com/[שם המשתמש בגיטהאב]/שם_הריפו</span>
+**1.** נכנסים ל https://github.com/gefNschlisL ואז ל **Repositories** ובוחרים בריפו שרוצים, או ישירות ל <span dir="ltr">https://github.com/שם_המשתמש/שם_הריפו</span>
 
 **2.** לוחצים על **Commits** שמתחת לכפתור הירוק, ומעתיקים את ההאש (hash) של הקומיט שאליו רוצים לעבור
 
