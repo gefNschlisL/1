@@ -30,15 +30,14 @@ git push -u origin main
 ```
 
 | פקודה | הסבר |
+|---|---|
 | `git add .` | הקובץ או הקבצים שרוצים להעלות. נקודה מעלה את כולם |
 
 ---
 
 ## ⬇️ הורדת ריפו קיים מגיטהאב לתיקיה שתיווצר ותקושר אליו
 
-**1.** נכנסים ל־ <span dir="ltr">https://github.com/[שם המשתמש בגיטהאב]</span> (לדוגמה [https://github.com/gefNschlisL](https://github.com/gefNschlisL)) ‏› **Repositories** ובוחרים בריפו שרוצים,
-
-או פשוט: <span dir="ltr">https://github.com/[שם המשתמש בגיטהאב]/שם_הריפו</span>
+**1.** נכנסים ל https://github.com/gefNschlisL ואז ל **Repositories** ובוחרים בריפו שרוצים, או ישירות ל https://github.com/שם_המשתמש/שם_הריפו
 
 **2.** לוחצים על הכפתור הירוק **Code** ומעתיקים את הקישור
 
